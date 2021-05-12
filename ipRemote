@@ -1,0 +1,15 @@
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . :
+   Link-local IPv6 Address . . . . . : fe80::1cee:7793:38c6:6dbd%15
+   IPv4 Address. . . . . . . . . . . : 192.168.107.50
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.107.1
+
+Ethernet adapter vEthernet (Default Switch):
+
+   Connection-specific DNS Suffix  . :
+   Link-local IPv6 Address . . . . . : fe80::109d:8d8d:328b:aa26%17
+   IPv4 Address. . . . . . . . . . . : 192.168.210.97
+   Subnet Mask . . . . . . . . . . . : 255.255.255.240
+   Default Gateway . . . . . . . . . :
